@@ -1,0 +1,25 @@
+body {
+    background: lavender;
+}
+.user {
+    font-size: 16px;
+    font-weight: bold;
+}
+.waktu {
+    font-size: 12px;
+    color: dodgerblue;
+}
+.diubah {
+    font-size: 14px;
+    font-weight: bold;
+    color: red;
+}
+.judul {
+    color: #0b467e;
+}
+.cover {
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 200px;
+}
